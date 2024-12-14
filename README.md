@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJjdWE2bGhvMTVnbXdkYm9sN2t5aHlqc3Bhc3Vlc3R1ZW10eW10OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp" alt="Welcome GIF" />
+</div>
+
 <h1 align="center">Hi 👋, I'm GAUTAM</h1>
 <h3 align="center">Aspiring Software Engineer | MERN Stack Developer | Tech Leader</h3>
 
